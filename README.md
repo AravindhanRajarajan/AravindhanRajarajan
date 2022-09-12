@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AravindhanRajarajan
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Web Devlopment
 - 🌱 I’m currently learning ML and AI concepts
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me by my mail : aravindhanrajarajan@gmail.com

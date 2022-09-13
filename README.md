@@ -1,28 +1,22 @@
 ### Hey! there. 👋
 
 I'm Aravind, an B.E Computer Science student . <br>
-![GitHub followers](https://img.shields.io/github/followers/ashutoshm1771?label=Follow&style=social) ![Profile views](https://gpvc.arturio.dev/ashutoshm1771) 
-[![Years Badge](https://badges.pufler.dev/years/ashutoshm1771)](https://badges.pufler.dev/years/ashutoshm1771)
-[![Repos Badge](https://badges.pufler.dev/repos/ashutoshm1771)](https://badges.pufler.dev/repos/ashutoshm1771)
-[![Updated Badge](https://badges.pufler.dev/updated/ashutoshm1771/ashutoshm1771)](https://badges.pufler.dev/updated/ashutoshm1771)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/ashutoshm1771)](https://badges.pufler.dev/commits/monthly/ashutoshm1771)
+
 ```
 Programmer (noun): Someone who solves a problem you didn't know you had, in a way you don't understand. 😉
 ```
-![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutoshm1771&show_icons=true&theme=solarized-light)
-  <img align="right" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="300" height="300"/>
+
 </p>
 
 💻    &nbsp; Full Stack Developer.<br />
 ✍🏻   &nbsp;  Decent competitive programming, DSA, Algo skills.<br />
-🔭   &nbsp;  Currently pursuing MS in CS.<br />
+🔭   &nbsp;  Currently pursuing B.E in CS.<br />
 🤔    &nbsp; I love to take an adventure on new techs. <3<br />
 ⚡️    &nbsp; I’m ready to take up new technical challenges.<br />
-⛳   &nbsp;  I usually write code in C++ & C#.<br />
-👀    &nbsp; You can find me on linkedin [https://www.linkedin.com/in/ashutoshm1771/](https://www.linkedin.com/in/ashutoshm1771/)<br />
-📫    &nbsp; How to reach me: ashutoshm1771@gmail.com<br />
-🌏    &nbsp; Please Visit my Portfolio for more details -> [http://www.ashutoshmishra.com.np](http://www.ashutoshmishra.com.np)<br/>
-👯    &nbsp; Please Visit my React - Portfolio -> [https://ashutosh-mishra.web.app/](https://ashutosh-mishra.web.app/)<br/>
+⛳   &nbsp;  I usually write code in Python.<br />
+👀    &nbsp; You can find me on linkedin [www.linkedin.com/in/aravindhan-r2002](www.linkedin.com/in/aravindhan-r2002)<br />
+📫    &nbsp; How to reach me: aravindhanrajrajan@gmail.com<br />
+
 
 
 ---------------------------

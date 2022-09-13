@@ -9,7 +9,7 @@ Programmer (noun): Someone who solves a problem you didn't know you had, in a wa
 </p>
 
 💻    &nbsp; Full Stack Developer.<br />
-✍🏻   &nbsp;  Decent competitive programming, DSA, Algo skills.<br />
+✍🏻   &nbsp;  Decent competitive programmer.<br />
 🔭   &nbsp;  Currently pursuing B.E in CS.<br />
 🤔    &nbsp; I love to take an adventure on new techs. <3<br />
 ⚡️    &nbsp; I’m ready to take up new technical challenges.<br />
@@ -18,6 +18,7 @@ Programmer (noun): Someone who solves a problem you didn't know you had, in a wa
 📫    &nbsp; How to reach me: aravindhanrajrajan@gmail.com<br />
 
 
+<img align="center" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="300" height="300"/>
 
 ---------------------------
 <div>

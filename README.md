@@ -8,7 +8,7 @@ Programmer (noun): Someone who solves a problem you didn't know you had, in a wa
 
 </p>
 
-💻    &nbsp; Full Stack Developer.<br />
+💻    &nbsp; Aspiring to become an ML Engineer.<br />
 ✍🏻   &nbsp;  Decent competitive programmer.<br />
 🔭   &nbsp;  Currently pursuing B.E in CS.<br />
 🤔    &nbsp; I love to take an adventure on new techs. <3<br />

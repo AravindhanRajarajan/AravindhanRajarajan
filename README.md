@@ -1,6 +1,6 @@
 ### Hey! there. 👋
 
-I'm Aravind, an B.E Computer Science student . <br>
+I'm Aravind, I am currently persuing my Master's in Computer Science from State University of Newyork at Binghamton. <br>
 
 ```
 Programmer (noun): Someone who solves a problem you didn't know you had, in a way you don't understand. 😉
@@ -10,7 +10,7 @@ Programmer (noun): Someone who solves a problem you didn't know you had, in a wa
 
 💻    &nbsp; Aspiring to become an ML Engineer.<br />
 ✍🏻   &nbsp;  Decent competitive programmer.<br />
-🔭   &nbsp;  Currently pursuing B.E in CS.<br />
+🔭   &nbsp;  Currently pursuing MS in CS.<br />
 🤔    &nbsp; I love to take an adventure on new techs. <3<br />
 ⚡️    &nbsp; I’m ready to take up new technical challenges.<br />
 ⛳   &nbsp;  I usually write code in Python.<br />
